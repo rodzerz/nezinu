@@ -1,0 +1,6 @@
+git clone <repo-adrese>
+cd <repo-mape>
+echo "Hello world" > file.txt
+git add .
+git commit -m "Initial commit"
+git push
